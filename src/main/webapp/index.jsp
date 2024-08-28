@@ -7,7 +7,7 @@
 <title>Welcome to servlet</title>
 <!-- including external css -->
 <link rel="stylesheet" href="<%= application.getContextPath() %>/css/style.css"/>
-
+<!-- hiii  ji -->
 </head>
 <body>
 	<div class="container">
